@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_restaurant_specialities">
+        <item>Regional Cuisine</item>
+        <item>Fish And Seafood</item>
+        <item>Delicious Appetizers</item>
+        <item>Hot Broth</item>
+        <item>Pizzeria</item>
+        <item>Brazilian Cachaca</item>
+        <item>Special Beers</item>
+    </string-array>
+</resources>
